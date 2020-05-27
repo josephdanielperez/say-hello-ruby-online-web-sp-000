@@ -4,3 +4,4 @@ def say_hello(name="puppy guppy")
 end
 
 say_hello("Kent Beck")
+say_hello
